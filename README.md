@@ -1,3 +1,3 @@
 # IO
 
-print("Subtitulo")
+Subtitulo
